@@ -5,6 +5,8 @@ Over time I did start to get discouraged due to the number of inaccurate results
 
 https://youtu.be/YTnEkpL47b4
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YTnEkpL47b4?si=7Ue-_3qBso8j6K-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Description: What started off as a simple fascination with knowing that AI could not always correctly generate human anatomy translated into trying to see what other aspects AI could not generate, especially in Adobe Firefly. I wanted to focus on human anatomy and emotion and try as many attempts as possible to pull the most “accurate” images I could get. At first, I genially thought it wouldn’t be so hard, I would just type in my prompt of a human showing emotion or portraying an activity and Firefly would generate a human doing said activity. I had my screen split on my computer and when looking at the images then, everything looked fine, I thought this was going too well. Upon further review and a closer look at the images, I realized how horrific the downloaded images looked. The texture of the clothes looked odd, what I thought was a watch was not that at all. The reality finally set in that none of the images I had been downloading were accurate. This is where I enlarged my screen and made sure to review each image quite carefully to ensure that I was downloading and choosing the closest to accurate image possible. Where my second realization came, and I saw the horror of many inaccurate hands.
 
 
